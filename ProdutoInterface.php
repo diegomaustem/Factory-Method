@@ -1,5 +1,4 @@
 <?php 
-
 interface ProdutoInterface
 {
     public function getNome() : string;

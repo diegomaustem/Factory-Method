@@ -1,6 +1,7 @@
 <?php 
 
 require_once('ProdutoFactory.php');
+require_once('PacoteViagem.php');
 
 class PacoteViagemFactory extends ProdutoFactory {
 
